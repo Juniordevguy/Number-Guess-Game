@@ -1,0 +1,14 @@
+C:\Users\Samuel.gannon\source\repos\guessthenumber\bin\Debug\guessthenumber.exe.config
+C:\Users\Samuel.gannon\source\repos\guessthenumber\bin\Debug\guessthenumber.exe
+C:\Users\Samuel.gannon\source\repos\guessthenumber\bin\Debug\guessthenumber.pdb
+C:\Users\Samuel.gannon\source\repos\guessthenumber\bin\Debug\guessthenumber.xml
+C:\Users\Samuel.gannon\source\repos\guessthenumber\obj\Debug\guessthenumber.vbproj.AssemblyReference.cache
+C:\Users\Samuel.gannon\source\repos\guessthenumber\obj\Debug\guessthenumber.Resources.resources
+C:\Users\Samuel.gannon\source\repos\guessthenumber\obj\Debug\guessthenumber.vbproj.GenerateResource.cache
+C:\Users\Samuel.gannon\source\repos\guessthenumber\obj\Debug\guessthenumber.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel.gannon\source\repos\guessthenumber\obj\Debug\guessthenumber.exe
+C:\Users\Samuel.gannon\source\repos\guessthenumber\obj\Debug\guessthenumber.xml
+C:\Users\Samuel.gannon\source\repos\guessthenumber\obj\Debug\guessthenumber.pdb
+C:\Users\Samuel.gannon\source\repos\guessthenumber\obj\Debug\guessthenumber.frmNumberGuess.resources
+C:\Users\Samuel.gannon\source\repos\guessthenumber\obj\Debug\guessthenumber.Form2.resources
+C:\Users\Samuel.gannon\source\repos\guessthenumber\obj\Debug\guessthenumber.Form3.resources
